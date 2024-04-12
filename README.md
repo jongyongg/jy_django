@@ -1,1 +1,1 @@
-# jy_django
+# lion-django
